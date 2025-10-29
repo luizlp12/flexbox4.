@@ -1,0 +1,13 @@
+.card {
+    width: 100px;
+    height: 100px;
+    background: #515f46;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+body{
+    display: flex;
+    flex-wrap: wrap;
+}
